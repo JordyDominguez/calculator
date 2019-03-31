@@ -1,0 +1,13 @@
+.CalcOutput {
+  width: 480px;
+  height: 100px;
+  background-color: grey;
+  text-align: right;
+  padding-right: 20px;
+}
+
+.Text {
+  font-size: 30px;
+  margin: 0;
+  padding-top: 30px;
+}

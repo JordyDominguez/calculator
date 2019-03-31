@@ -1,0 +1,30 @@
+.Calculator {
+  background-color: lightgray;
+  width: 500px;
+  height: 500px;
+  border-radius: 15px;
+  padding: 20px 0;
+  margin: 0 auto;
+}
+
+.Buttons {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+button {
+  width: 100px;
+  font-size: 40px;
+  border-radius: 25px;
+  cursor: pointer;
+  outline: none;
+}
+
+.Functions {
+  background-color: lightcoral;
+}
+
+.Zero {
+  width: 215px;
+}
